@@ -1,0 +1,8 @@
+is_username_valid(‘tegar-a12’)
+	return false
+is_username_valid(‘tegar-a11’)
+	return true
+is_password_valid('Tegar_2222')
+	return false
+is_password_valid('Tegar_22')
+	return true
